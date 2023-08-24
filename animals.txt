@@ -1,4 +1,4 @@
-M Mole (change on line 1)
+M Moles (change on line 1)
 N Newt
 O Ocelot (change on line 3)
 P Panda
